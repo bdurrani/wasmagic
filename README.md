@@ -36,7 +36,7 @@ installed locally:
 To setup for Mac:
 
 ```bash
-brew install emscripten autotools
+brew install emscripten autoconf libtool
 ```
 
 Then:
